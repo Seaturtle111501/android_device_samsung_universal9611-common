@@ -62,6 +62,9 @@ ro.vendor.ddk.set.afbc=1
 ## Power HAL
 vendor.powerhal.disp.idle_support=false
 
+# LMK
+ro.lmk.filecache_min_kb=153600
+
 # Filesystem
 fs_mgr.overlayfs.prefer_cache_backing_storage=true
 
