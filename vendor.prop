@@ -63,6 +63,7 @@ ro.vendor.ddk.set.afbc=1
 vendor.powerhal.disp.idle_support=false
 
 # LMK
+ro.lmk.kill_heaviest_task=true
 ro.lmk.filecache_min_kb=153600
 
 # Filesystem
